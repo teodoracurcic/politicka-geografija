@@ -1,5 +1,7 @@
 # Mesta i izbori u Srbiji
 
+🔗 **Sajt:** [teodoracurcic.github.io/politicka-geografija](https://teodoracurcic.github.io/politicka-geografija/index.html)
+
 Interaktivni pregled opština, gradova, okruga i regiona u Srbiji koji na jednom mestu prikazuje kako se glasalo na parlamentarnim izborima i osnovne demografske i ekonomske podatke.
 
 > **Napomena:** podaci još nisu provereni. Moguće su greške u preuzimanju, čišćenju ili spajanju podataka.
@@ -14,7 +16,11 @@ Za svako izabrano mesto:
 - **Zarade:** prosečnu mesečnu neto zaradu od 2018. do 2025.
 - **Rođene:** broj živorođenih od 2015. do 2025.
 
-Dva mesta se mogu uporediti jedno pored drugog.
+Dva mesta se mogu uporediti jedno pored drugog, a tačne vrednosti na grafikonima vide se kada se pređe mišem preko njih ili klikne.
+
+## Kako se koristi
+
+Otvori [sajt](https://teodoracurcic.github.io/politicka-geografija/index.html) ili preuzmi `index.html` i otvori ga u pregledaču. Svi podaci su ugrađeni u fajl, pa nije potreban nikakav server ni instalacija.
 
 ## Podaci i obrada
 
